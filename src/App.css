@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+.tableStyle{
+  margin:20px 40px;
+  width: 90%;
+  border-collapse: collapse;
+  border: 1px solid;
+ 
+}
+.headerStyle{
+  background-color:#4CAF50;
+  color: white;
+  margin:20px 40px;
+  width: 90%;
+  border: 1px solid;
+  border-collapse: collapse;
+}
+.buttonStyle{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor:pointer;
+  
+
+}
